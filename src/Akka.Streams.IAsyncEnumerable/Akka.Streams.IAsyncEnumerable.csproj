@@ -7,4 +7,10 @@
     <Description>Your description here.</Description>
   </PropertyGroup>
 
+
+  <ItemGroup>
+    <PackageReference Include="Akka.Streams" Version="1.4.24" />
+    <PackageReference Include="Microsoft.Bcl.AsyncInterfaces" Version="5.0.0" />
+  </ItemGroup>
+
 </Project>

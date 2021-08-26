@@ -1,7 +1,7 @@
 <Project>
   <PropertyGroup>
-    <Copyright>Copyright © 2020 Your Company</Copyright>
-    <Authors>Your Authors</Authors>
+    <Copyright>Copyright © 2020 Aaron Stannard</Copyright>
+    <Authors>Aaronontheweb</Authors>
     <VersionPrefix>0.1.0</VersionPrefix>
     <PackageReleaseNotes>First release</PackageReleaseNotes>
     <PackageIconUrl>
