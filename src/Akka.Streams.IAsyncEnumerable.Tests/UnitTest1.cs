@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace Petabridge.Library.Tests
+namespace Akka.Streams.IAsyncEnumerable.Tests
 {
     public class UnitTest1
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Petabridge.Library
+namespace Akka.Streams.IAsyncEnumerable
 {
     public class Class1
     {

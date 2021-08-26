@@ -1,7 +1,7 @@
 ﻿using System;
 using NBench;
 
-namespace Petabridge.Library.Tests.Performance
+namespace Akka.Streams.IAsyncEnumerable.Tests.Performance
 {
     class Program
     {

@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Petabridge.Library\Petabridge.Library.csproj" />
+    <ProjectReference Include="..\Akka.Streams.IAsyncEnumerable\Akka.Streams.IAsyncEnumerable.csproj" />
   </ItemGroup>
 
 </Project>
